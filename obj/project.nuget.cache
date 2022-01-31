@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GT5Wa7NvIQ3lNOKkUEEGOCSbp5pz9B1yuzA9bTuEY/5rj2ju44vg1V6DvB2ZnXwHrEt/9e1AA6VEFIh3TKk9Jw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okans\\Desktop\\pratikler\\tip-donusumleri\\tip-donusumleri.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
